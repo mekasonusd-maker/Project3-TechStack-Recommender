@@ -1,0 +1,16 @@
+job_role,skills
+Data Scientist,Python SQL Machine_Learning Data_Analysis Statistics TensorFlow Deep_Learning Pandas NumPy Visualization
+Machine Learning Engineer,Python TensorFlow PyTorch Deep_Learning Algorithms Neural_Networks MLOps Scikit_Learn Docker Kubernetes
+Backend Developer,Python Java SQL APIs REST Node_JS Django Flask Databases Git
+Frontend Developer,JavaScript HTML CSS React Vue Angular UI_Design Responsive_Design TypeScript Git
+DevOps Engineer,AWS Docker Kubernetes CI_CD Linux Bash Terraform Monitoring Git Cloud
+Cloud Architect,AWS Azure GCP Cloud Infrastructure Networking Security Terraform DevOps Microservices
+Cybersecurity Analyst,Network_Security Ethical_Hacking Penetration_Testing Linux Firewalls Cryptography SIEM Incident_Response Risk_Assessment
+Data Engineer,Python SQL Spark Hadoop ETL Data_Pipelines Airflow Cloud Databases Kafka
+AI Engineer,Python Deep_Learning NLP Computer_Vision TensorFlow PyTorch MLOps Transformers APIs Automation
+Full Stack Developer,JavaScript Python React Node_JS SQL HTML CSS APIs Git Docker
+Mobile Developer,Flutter React_Native Swift Kotlin Android iOS APIs Git UI_Design Firebase
+Blockchain Developer,Solidity Ethereum Web3 Smart_Contracts Python Cryptography Decentralized_Apps APIs Security
+NLP Engineer,Python NLP Transformers BERT Hugging_Face Text_Processing Deep_Learning TensorFlow Linguistics APIs
+Computer Vision Engineer,Python OpenCV Deep_Learning CNNs TensorFlow Image_Processing Object_Detection PyTorch CUDA NumPy
+Automation Engineer,Python Scripting Selenium RPA Zapier APIs Testing CI_CD Bash Workflow
